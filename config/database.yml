@@ -84,7 +84,6 @@ test:
 #
 production:
   <<: *default
-  database: rest_api_production
-  url: <%= ENV['DATABASE_URL'] %>
-  username: rest_api
-  password: <%= ENV['REST_API_DATABASE_PASSWORD'] %>
+  database: dfalahr1htbl53
+  username: bbrtigyjzkbbbw
+  password: e216938a4aae5c90ad6ed173a5ed1535b99ba2db9c0c56832f87a2e25a9a1e8b
